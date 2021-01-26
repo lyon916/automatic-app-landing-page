@@ -139,3 +139,18 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+
+
+####################################################
+### customize ###
+####################################################
+
+sitemap: true
+
+url: "https://lyon916.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+  
