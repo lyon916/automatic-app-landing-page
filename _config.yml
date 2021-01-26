@@ -148,7 +148,7 @@ markdown: kramdown
 title: LemonDays, a elegant event countdown app.
 tagline: LemonDays, a elegant event countdown app.
 description: LemonDays helps us count down (or count up) and remember special moments in our lives.
-url: "https://lyon916.github.io/lemonapp/" # the base hostname & protocol for your site
+# url: "https://lyon916.github.io/lemonapp/" # the base hostname & protocol for your site
 author: "LemonDays"
 logo: /assets/appicon.png
 
