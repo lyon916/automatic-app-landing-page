@@ -52,11 +52,11 @@ features                                  :
 
   - title                                 : Recurring Events
     description                           : Let the created events be reminded and displayed repeatedly every year, month, week or day.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : star
   
   - title                                 : Night Mode
     description                           : Comfortable night mode display.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : adjust
 
   - title                                 : System notification
     description                           : Before the event arrives, choose to receive notification reminders in advance or at that time.
